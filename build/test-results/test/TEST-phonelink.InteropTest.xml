@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="phonelink.InteropTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-04T12:10:07.516Z" hostname="ponisio7" time="0.624">
+  <properties/>
+  <testcase name="kotlinServidorPythonCliente()" classname="phonelink.InteropTest" time="0.354"/>
+  <testcase name="pythonServidorKotlinCliente()" classname="phonelink.InteropTest" time="0.24"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
